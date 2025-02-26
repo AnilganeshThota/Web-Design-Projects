@@ -24,14 +24,12 @@ Welcome to the Drum Shell Project! This project is a fun and interactive way to 
 
 Each key corresponds to a specific drum sound:
 
-| Key | Sound ID     |
-|-----|--------------|
-| Q   | Heater-1     |
-| W   | Heater-2     |
-| E   | Heater-3     |
-| A   | Heater-4     |
-| S   | Clap         |
-| D   | Open-HH      |
-| Z   | Kick-n'-Hat  |
-| X   | Kick         |
-| C   | Closed-HH    |
+| Key  |  Sound ID  |
+|------|------------|
+|  W   |  tom-1     |
+|  A   |  tom-2     |
+|  S   |  tom-3     |
+|  D   |  tom-4     |
+|  J   |  snare     |
+|  K   |  crash     |
+|  L   |  Kick-bass |
