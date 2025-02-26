@@ -1,11 +1,11 @@
 # Drum Shell Project
 
-Welcome to the Drum Shell Project! This project is a fun and interactive way to play drum sounds using your keyboard. It's built using HTML, CSS, and JavaScript.
+Welcome to the Drum Shell Project! This project is a fun and interactive way to play drum sounds using your keyboard or mouse. It's built using HTML, CSS, and JavaScript.
 
 ## Features
 
 - **Responsive Design**: Works on both desktop and mobile devices.
-- **Interactive Buttons**: When pressed via the keyboard, drum pads are highlighted.
+- **Interactive Buttons**: When pressed via the keyboard or mouse, drum pads are highlighted.
 - **Audio Playback**: Each pad plays a unique sound.
 - **Smooth Animations**: Drum pads scale down when pressed and reset after a short delay.
 
